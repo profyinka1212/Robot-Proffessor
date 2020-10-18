@@ -83,10 +83,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mPROF
+\033[1;96mAuthor  \033[1;93m: \033[1;92m PROF
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1: PROF
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ROBOT/PROFFESSOR
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Robot/PROFFESSOR
 \033[1;91m======================================="""
 
 def tik():
